@@ -1,3 +1,6 @@
+Bartosz Kowieski
+s24904
+
 Należy rozpakować instantclient_19_8.zip
 Było to konieczne, bo inaczej pliki nie zmieściłyby się na Github
 
